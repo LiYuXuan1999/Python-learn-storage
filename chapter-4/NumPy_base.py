@@ -14,3 +14,5 @@ plt.imshow(z,cmap=plt.cm.gray)
 plt.colorbar()
 
 plt.title("Image plot of $\sqrt{x^2 + y^2}$ for a grid of values")
+
+print(test)
